@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.baa871b0.css",
+    "main.js": "/static/js/main.33b7fafb.js",
+    "static/js/787.cd0cf0f5.chunk.js": "/static/js/787.cd0cf0f5.chunk.js",
+    "static/media/84.png": "/static/media/84.402437a719a36cb0b93f.png",
+    "static/media/74.png": "/static/media/74.994504d8dc32f092c4de.png",
+    "static/media/55.png": "/static/media/55.7d77e0d6b7015d63647b.png",
+    "static/media/75.png": "/static/media/75.1aaf349d4989d9070245.png",
+    "static/media/68.png": "/static/media/68.98be75f232ac47baaf15.png",
+    "static/media/83.png": "/static/media/83.dd3187ef7242fceb7733.png",
+    "static/media/61.png": "/static/media/61.f276be46d87712856577.png",
+    "static/media/5.png": "/static/media/5.4dfb5f5e664bb56b8577.png",
+    "static/media/3.png": "/static/media/3.5ae0bee78f2c802f0239.png",
+    "static/media/86.png": "/static/media/86.5410925334a0b6402d26.png",
+    "static/media/60.png": "/static/media/60.d4727a9d6bf04e20b876.png",
+    "static/media/87.png": "/static/media/87.0e6ee8abefb9b255bec9.png",
+    "static/media/22.png": "/static/media/22.87ebacec0e79406fae5b.png",
+    "static/media/91.png": "/static/media/91.efbbbc45c8ebb64eff55.png",
+    "static/media/25.png": "/static/media/25.9fe19eb69dda7b8f05e2.png",
+    "static/media/patient.png": "/static/media/patient.147da2e432cb2825dfdb.png",
+    "static/media/2.png": "/static/media/2.3d21172d22d5d4b5f16f.png",
+    "static/media/59.png": "/static/media/59.22b25bd5a838d0a363c8.png",
+    "static/media/1.png": "/static/media/1.a87e041f8f3bbf5e8be4.png",
+    "static/media/4.png": "/static/media/4.9cd94fcda7b86a0000d7.png",
+    "static/media/Group52.png": "/static/media/Group52.5d80e7ba0df03b63c1eb.png",
+    "static/media/เสี่ยงสูง.png": "/static/media/เสี่ยงสูง.0664e1a505a3b374ea63.png",
+    "static/media/Group20.png": "/static/media/Group20.e2e07388404f255a13d5.png",
+    "static/media/เสี่ยงต่ำ.png": "/static/media/เสี่ยงต่ำ.4a90bdf29a376390ecaf.png",
+    "static/media/ไม่มีความเสี่ยง.png": "/static/media/ไม่มีความเสี่ยง.b2248c516e43469c1caf.png",
+    "static/media/Group38.png": "/static/media/Group38.769e2cf816639cc508be.png",
+    "index.html": "/index.html",
+    "main.baa871b0.css.map": "/static/css/main.baa871b0.css.map",
+    "main.33b7fafb.js.map": "/static/js/main.33b7fafb.js.map",
+    "787.cd0cf0f5.chunk.js.map": "/static/js/787.cd0cf0f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baa871b0.css",
+    "static/js/main.33b7fafb.js"
+  ]
+}
